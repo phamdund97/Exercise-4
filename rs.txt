@@ -1,0 +1,6 @@
+B1: clone repo: git clone https://gitlab.com/tubcvt/git-basic-ex4.git
+B2: Thay doi thong tin config:
+    git config --global user.name "Pham Du"
+    git config --global user.email "Phamdund97@gmail.com"
+    git remote set-url origin https://github.com/phamdund97/Exercise-4.git
+B3: Merge feature-rocket-util to feature-rocket-24h
